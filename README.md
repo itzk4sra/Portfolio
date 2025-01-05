@@ -51,7 +51,7 @@ This project is licensed under the MIT License 📜. Feel free to use and modify
 
 ### Screenshots
 
-![Profile Card Screenshot](https://i.ibb.co/Qrv8fdd/image.png)
+![Profile Card Screenshot](https://i.ibb.co/Fz5Vrjx/image.png)
 
 ---
 
