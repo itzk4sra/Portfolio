@@ -12,6 +12,35 @@ body {
   }
 }
 
+.neon-effect-light {
+  color: #ffffff; 
+  text-shadow: 
+    0 0 5px #ffffff,  
+    0 0 10px #ffffff,
+    0 0 20px #00b3ff, 
+    0 0 30px #00b3ff,
+    0 0 40px #00b3ff,
+    0 0 50px #00b3ff; 
+}
+
+.glow-white {
+  text-shadow: 
+    0 0 5px rgba(255, 255, 255, 0.8), 
+    0 0 15px rgba(255, 255, 255, 0.6);
+}
+
+.glow-gray {
+  text-shadow: 
+    0 0 5px rgb(139, 139, 139), 
+    0 0 15px rgb(139, 139, 139);
+}
+
+.blue-glow {
+  text-shadow: 
+    0 0 5px #00ffff, 
+    0 0 15px #00ffff;
+}
+
 @layer base {
   :root {
     --background: 0 0% 100%;
